@@ -1,6 +1,6 @@
 version: '3'
 services:
-  kicker-registry:
+  kicker-config:
     image: n52/kicker-config:latest
     build:
       dockerfile: ./Dockerfile
